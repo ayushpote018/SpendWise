@@ -1,0 +1,30 @@
+{
+  "name": "spendwise-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushpote018/SpendWise.git"
+  },
+  "keywords": [
+    "\"expense",
+    "tracker",
+    "backend",
+    "express",
+    "spendwise\""
+  ],
+  "author": "Ayush Pote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushpote018/SpendWise/issues"
+  },
+  "homepage": "https://github.com/ayushpote018/SpendWise#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
