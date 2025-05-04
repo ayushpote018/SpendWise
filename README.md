@@ -9,6 +9,11 @@
 - 🎯 **Goal Tracking** – Set financial goals and track progress over time.  
 - 📂 **CSV Export** – Download your expenses for external use.  
 
+## 💻 Technologies Used
+- **Frontend**: [Next.js](https://nextjs.org/) - React framework for building user interfaces
+- **Backend**: [Express](https://expressjs.com/) - Fast, unopinionated web framework for Node.js
+- **Database**: [MongoDB](https://www.mongodb.com/) - NoSQL database for modern applications
+
 ## 🚀 Get Started  
 Coming soon...  
 
